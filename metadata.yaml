@@ -1,0 +1,38 @@
+_repo: Bernardin-de-St-Pierre_58723
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Birrell, Augustine
+    birthdate: 1850
+    deathdate: 1933
+    gutenberg_agent_id: '2413'
+    url: http://www.gutenberg.org/2009/agents/2413
+    wikipedia: http://en.wikipedia.org/wiki/Augustine_Birrell
+  translator:
+    agent_name: Gordon, James Edward
+    gutenberg_agent_id: '50116'
+    url: http://www.gutenberg.org/2009/agents/50116
+creator:
+  author:
+    agent_name: Barine, Arvède
+    aliases:
+    - Vincens, Cécile
+    - Barine, Arvede
+    - Vincens, Cecile
+    birthdate: 1840
+    deathdate: 1908
+    gutenberg_agent_id: '33205'
+    url: http://www.gutenberg.org/2009/agents/33205
+description: ''
+gutenberg_issued: '2019-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bernardin de St. Pierre
+url: http://www.gutenberg.org/ebooks/58723
